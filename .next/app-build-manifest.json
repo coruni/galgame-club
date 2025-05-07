@@ -11,15 +11,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/[locale]/page.js"
     ],
-    "/[locale]/(main)/category/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/[locale]/(main)/category/[id]/page.js"
-    ],
     "/[locale]/(main)/article/[id]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/[locale]/(main)/article/[id]/page.js"
+    ],
+    "/[locale]/(main)/category/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/[locale]/(main)/category/[id]/page.js"
     ]
   }
 }

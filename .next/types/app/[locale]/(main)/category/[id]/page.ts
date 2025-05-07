@@ -1,4 +1,4 @@
-// File: C:\Users\Administrator\Desktop\kungal\app\[locale]\(main)\category\[id]\page.tsx
+// File: C:\project\galgame-club\app\[locale]\(main)\category\[id]\page.tsx
 import * as entry from '../../../../../../../app/[locale]/(main)/category/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

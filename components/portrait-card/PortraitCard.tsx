@@ -38,7 +38,7 @@ export default function PortraitCard({
           {/* 大小信息 */}
           {article.size && (
             <p className='absolute top-0 right-0 text-xs text-white bg-black/50 px-2 py-1'>
-              {Math.round(Number(article.size)).toFixed(0)}G
+              {(Number(article.size || 0) / 1024).toFixed(1)}G
             </p>
           )}
           {/* 下载渠道 */}
