@@ -1,1 +1,0 @@
-{"kind":"FETCH","data":{"headers":{},"body":"{\"id\":2,\"name\":\"测试子分类\",\"alias\":null,\"slug\":null,\"avatar\":null,\"icon\":\"Atom\",\"parentId\":1,\"articles\":0,\"type\":\"ARTICLE\",\"authorId\":null,\"layout\":\"SQUARE\",\"createdAt\":\"2025-04-24T23:50:05.962Z\",\"updatedAt\":null}","status":200,"url":""},"revalidate":3600,"tags":[]}

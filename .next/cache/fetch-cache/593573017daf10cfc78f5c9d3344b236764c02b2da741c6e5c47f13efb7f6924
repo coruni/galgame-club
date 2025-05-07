@@ -1,1 +1,0 @@
-{"kind":"FETCH","data":{"headers":{},"body":"{\"id\":3,\"name\":\"同人游戏\",\"alias\":null,\"slug\":null,\"avatar\":null,\"icon\":null,\"parentId\":null,\"articles\":0,\"type\":\"ARTICLE\",\"authorId\":null,\"layout\":\"SQUARE\",\"createdAt\":\"2025-04-25T21:07:26.719Z\",\"updatedAt\":null}","status":200,"url":""},"revalidate":3600,"tags":[]}
